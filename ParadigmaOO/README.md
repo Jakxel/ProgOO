@@ -27,3 +27,14 @@ En programación orientada a objetos, la herencia es, después de la agregación
 Como en la siguiente ilustracion se da un ejemplo de herencia:
 ![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.campusmvp.es%2Frecursos%2Fpost%2Flos-conceptos-fundamentales-sobre-programacion-orientada-objetos-explicados-de-manera-simple.aspx&psig=AOvVaw0nLB1HX0rP0P5Eg9HpHK00&ust=1679026891064000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODZkeHM3_0CFQAAAAAdAAAAABAD)
 
+# UML: diagrama de clases:
+
+### Resumen de Modelado de lenguaje unificado:
+El Lenguaje Unificado de Modelado (UML) desempeña un rol importante no solo en el desarrollo de software, sino también en los sistemas que no tienen software en muchas industrias, ya que es una forma de mostrar visualmente el comportamiento y la estructura de un sistema o proceso. el UML ayuda a mostrar errores potenciales en las estructuras de aplicaciones, el comportamiento del sistema y otros procesos empresariales. Sus principales autores fueron: los padres de UML son Grady Booch, autor del método Booch; James Rumbaugh, autor del método OMT e Ivar Jacobson, autor de los métodos OOSE y Objectory. La versión 1.0 de UML fue liberada en Enero de 1997 y ha sido utilizado con éxito en sistemas construidos para toda clase de industrias alrededor del mundo: hospitales, bancos, comunicaciones, aeronáutica, finanzas, etc.  Algunas de las herramientas que se pueden utilizar para el UML serian tales como: GitMind con su manejo sencillo en la nube, Lucidchar la cual es la herramienta UML online para el trabajo en equipo y IBM Rational Rhapsody con su entorno de desarrollo gráfico para integrar procesos entre otras mas herramientas que se pueden encontrar y utilizar.
+
+#### Pregunta: Sabes de alguna empresa local que utilize UML como lenguaje?
+No, conozco ninguna que la utilize principalmente seria por que no investigado a ninguna empresa pero imagino que muchas han de usarla ya que es muy util.
+
+### Propuesta de maquina que venda distintos articulos:
+Mi propuesta es una maquina de pueda vender distintos tipos de componentes de videojuegos, tales como juegos, consolas y otros dispositivos y productos.
+![UML DE MI PROPUESTA:](https://sendeyo.com/es/273f8f8204)
